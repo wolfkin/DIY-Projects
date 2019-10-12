@@ -12,3 +12,5 @@ https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
 1. Use [Appraise](https://www.reddit.com/r/selfhosted/comments/d74u3y/apprise_push_notifications_that_work_with_just/) to send notifications. Should be useful in some of the automation stuff. No ideas yet but this could be useful
 
 1. Perhaps I should start a list of just interesting sources
+
+1. Install Visual Studio Code as seen in [this](https://www.youtube.com/watch?v=ApbdhcZBcyU) tutorial it should be pretty useful
