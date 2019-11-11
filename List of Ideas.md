@@ -16,3 +16,7 @@ https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
 1. Install Visual Studio Code as seen in [this](https://www.youtube.com/watch?v=ApbdhcZBcyU) tutorial it should be pretty useful
 
 1. use rsync and rclone to create a encrypted dropbox storage. Maybe start by storing ebooks there.
+
+1. A script to automatically upload my overwatch Highlights to YouTube (let's try this with python that should be doable)
+
+1. Learn AutoHotKey (https://www.autohotkey.com/) the scripting language for Windows there must be some cool stuff you can do with that.
