@@ -20,3 +20,7 @@ https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
 1. A script to automatically upload my overwatch Highlights to YouTube (let's try this with python that should be doable)
 
 1. Learn AutoHotKey (https://www.autohotkey.com/) the scripting language for Windows there must be some cool stuff you can do with that.
+
+1. As seen here. write a script to automate turning VPN off. Goal: Run this script when torrent finishes download https://stackoverflow.com/questions/31990775/batch-file-to-connect-and-disconnect-from-vpn-connection/32000249
+
+1. Look into some css styles for bible verses on godsloveministries.ca (https://stackoverflow.com/questions/15025995/what-is-the-most-proper-way-to-format-biblical-quotes-and-or-biblical-references) (https://codepen.io/jazz9290/pen/zqXVpW)
